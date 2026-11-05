@@ -32,38 +32,53 @@ I'm a Software Engineering student passionate about building useful, scalable, a
 - 🤖 Interested in Artificial Intelligence and AI-powered applications.
 
 ---
+## 🛠️ Tech Stack & Tools
 
-## 🛠️ Tech Stack
+<table align="center">
+<tr>
+<td align="center" width="50%">
 
-### Frontend Development
+### 🎨 Frontend
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react&perline=4" />
 
-### Backend Development
+</td>
+<td align="center" width="50%">
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
+### ⚙️ Backend
 
-### Database
+<img src="https://skillicons.dev/icons?i=nodejs,express&perline=4" />
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql" />
-</p>
+</td>
+</tr>
 
-### Tools & Development Environment
+<tr>
+<td align="center" width="50%">
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-</p>
+### 🗄️ Database
 
-### Cloud Computing
+<img src="https://skillicons.dev/icons?i=mysql&perline=4" />
 
-<p>
-<img src="https://skillicons.dev/icons?i=azure" />
-</p>
+</td>
+<td align="center" width="50%">
+
+### 🔧 Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&perline=4" />
+
+</td>
+</tr>
+
+<tr>
+<td align="center" colspan="2">
+
+### ☁️ Cloud & Infrastructure
+
+<img src="https://skillicons.dev/icons?i=azure&perline=4" />
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -94,13 +109,20 @@ A personal website showcasing my software development skills, projects, and prof
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=goodthinker9&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goodthinker9&layout=compact&theme=tokyonight&hide_border=true" />
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=goodthinker9&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="180" />
+</td>
+<td>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goodthinker9&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" height="180" />
+</td>
+</tr>
+</table>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=goodthinker9&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=goodthinker9&theme=tokyonight&hide_border=true" height="180" />
 
 </div>
 
