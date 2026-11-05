@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="github-banner.png" width="100%" alt="Kalid Mohammed - Software Engineer"/>
+</p>
+
 # Hi, I'm Kalid Mohammed 
 
 ### Junior Software Engineer | Full-Stack Developer
