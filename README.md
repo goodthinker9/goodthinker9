@@ -17,6 +17,32 @@ I enjoy developing full-stack applications and continuously improving my softwar
 - **Database:** MySQL
 - **Tools:** Git, GitHub, VS Code, Postman
 - **Cloud:** Microsoft Azure (AZ-104)
+  ## 💻 Tech Stack
+
+**Frontend Development**
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+</p>
+
+**Backend Development**
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+**Database**
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+**Tools & Development Environment**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+
+**Cloud Computing**
+<p>
+  <img src="https://skillicons.dev/icons?i=azure" />
+</p>
 
 ###  Featured Projects
 
