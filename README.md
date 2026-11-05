@@ -109,20 +109,26 @@ A personal website showcasing my software development skills, projects, and prof
 
 <div align="center">
 
-<table>
-<tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=goodthinker9&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="180" />
-</td>
-<td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goodthinker9&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" height="180" />
-</td>
-</tr>
-</table>
+<!-- GitHub Stats -->
+<img
+  src="https://github-stats-extended.vercel.app/api?username=goodthinker9&show_icons=true&theme=tokyonight&hide_border=true"
+  height="180"
+  alt="GitHub Statistics"
+/>
 
-<br/>
+<!-- Top Languages - your working image -->
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=goodthinker9&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"
+  height="180"
+  alt="Top Languages"
+/>
 
-<img src="https://streak-stats.demolab.com?user=goodthinker9&theme=tokyonight&hide_border=true" height="180" />
+<!-- GitHub Streak -->
+<img
+  src="https://github-readme-streak-stats-eight.vercel.app/?user=goodthinker9&theme=tokyonight&hide_border=true"
+  height="180"
+  alt="GitHub Streak"
+/>
 
 </div>
 
