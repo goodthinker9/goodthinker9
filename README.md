@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Kalid Mohammed 
 
-<!--
-**goodthinker9/goodthinker9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Junior Software Engineer | Full-Stack Developer
 
-Here are some ideas to get you started:
+I'm a Software Engineering student passionate about building practical, user-friendly applications and solving real-world problems through technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy developing full-stack applications and continuously improving my software engineering skills.
+
+###  Technical Skills
+
+- **Frontend:** HTML, CSS, JavaScript, React.js
+- **Backend:** Node.js, Express.js
+- **Database:** MySQL
+- **Tools:** Git, GitHub, VS Code, Postman
+- **Cloud:** Microsoft Azure (AZ-104)
+
+###  Featured Projects
+
+- **Wollo Exam Prep** – An online exam preparation platform.
+- **WolloShare** – A university resource-sharing platform.
+- **Portfolio Website** – My personal developer portfolio.
+
+### Currently Learning
+
+- Advanced JavaScript
+- Software Engineering Best Practices
+- Cloud Computing
+- Artificial Intelligence
+
+###  Connect With Me
+
+- **LinkedIn:** [Kalid Mohammed](https://www.linkedin.com/in/kalidmohammeddev)
+- **Email:** kalid.m.dev@gmail.com
