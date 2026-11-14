@@ -69,10 +69,10 @@ A portfolio website designed to present my skills, projects, and professional ba
 ## GitHub Statistics
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=goodthinker9&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goodthinker9&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" height="180" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=goodthinker9&show_icons=true&hide_title=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" height="170" alt="GitHub profile statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goodthinker9&layout=compact&langs_count=6&hide_border=true&theme=transparent" height="170" alt="Most-used programming languages" />
   <br />
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=goodthinker9&theme=tokyonight&hide_border=true" height="180" alt="Contribution streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=goodthinker9&theme=transparent&hide_border=true" height="170" alt="GitHub contribution streak" />
 </div>
 
 ---
